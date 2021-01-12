@@ -56,6 +56,7 @@ System.out.println("Hello World"); 를 main의 중괄호 안쪽에 적어서 실
 * 6.
 1. 이클립스를 이용해 Java 코드를 작성할 수 있다. 또한 자바 스크립트와 CSS, 그리고 HTML도 사용할 수 있다.
 2. 이클립스 외에 자바 개발에 사용될 수 있는 개발 도구에는 인텔리제이와 쥬피터도 있다.
+<br>
 
 >## STUDY DAY 2
 <h3 align = "center">무엇을? Hello World!!를</h3>
