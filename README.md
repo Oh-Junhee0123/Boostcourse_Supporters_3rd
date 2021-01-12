@@ -1,7 +1,6 @@
 # Boostcourse_Supporters_3rd[부스트코스 서포터즈 3기]
-n
-## STUDY DAY 2
 
+## STUDY DAY 2
 ## 쉽게 배우는 자바
 
 
