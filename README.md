@@ -58,7 +58,19 @@ System.out.println("Hello World"); 를 main의 중괄호 안쪽에 적어서 실
 2. 이클립스 외에 자바 개발에 사용될 수 있는 개발 도구에는 인텔리제이와 쥬피터도 있다.
 <br>
 
->## STUDY DAY 2
+>## STUDY DAY 3
 <h3 align = "center">무엇을? Hello World!!를</h3>
 <br>
 
+* 1.
+먼저 인텔리제이를 실행한 후 HelloWorldApp이라는 Class를 생성해 주었다. 
+Class를 생성하면 생성한 Class 안에 자바 코드를 작성할 수 있다.
+
+HelloWorldApp이라는 파일에 있는 main을 실행하게 된다.
+
+System.out println은 화면의 바깥에 실행시켜 달라는 의미이다.
+
+System.out.println("Hello  World!!");
+무엇을? Hello World!!를
+
+* 2.
