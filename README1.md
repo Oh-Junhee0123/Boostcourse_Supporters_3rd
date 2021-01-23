@@ -92,4 +92,7 @@ public class HelloWorldApp{
 
 <h2 align = "center">Tag</h2>
 <br>
-# 부스트코스
+tags:
+  - 서시
+  - 윤동주
+  - 시
